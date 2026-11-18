@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Tooling / IDE
+.pytest_cache/
+.mypy_cache/
+.coverage
+.idea/
+.vscode/
+.DS_Store
+
+# Secrets
+.env
+.ruff_cache/
